@@ -1,1 +1,1 @@
-
+Hi Julian ! Since the file is too big to upload in github, I will upload the "RC11_23121108_EXTRAFILE.rar" file that include all the code and data invoked by the final assignment in One-Drive. And I kept their path structure. This way you can load them more easily.
